@@ -1,4 +1,4 @@
-# HTML-CSS_lesson2
+# HTML-CSS_lesson1
 
 - Создать пустую папку, придумать название.
 - Создать первую html страницу (index.html).
