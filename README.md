@@ -18,16 +18,16 @@ _font-size: 28px;_ <br/>
 _line-height: 36px;_ <br/>
 _font-weight: bold;_ <br/>
 - Для всех параграфов в проекте задать класс.
-- К данному классу задать стили:
-font-style: normal;
-font-weight: 300;
-font-size: 18px;
-line-height: 30px;
-color: #7D7987;
+- К данному классу задать стили:<br/>
+_font-style: normal;_<br/>
+_font-weight: 300;_<br/>
+_font-size: 18px;_<br/>
+_line-height: 30px;_<br/>
+_color: #7D7987;_<br/>
 - Для заголовков h2 задать класс.
-- К данному классу указать стиль:
-color: coral;
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 80px;
+- К данному классу указать стиль:<br/>
+_color: coral;_<br/>
+_font-style: normal;_<br/>
+_font-weight: 700;_<br/>
+_font-size: 36px;_<br/>
+_line-height: 80px;_
